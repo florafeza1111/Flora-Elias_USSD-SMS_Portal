@@ -22,4 +22,4 @@
 - 'sms.php' – Sends messages via Africa’s Talking
 - 'util.php' – Database and helper functions
 
-============================================================© Copyright ISHINGIRO AI System. All Rights Reserved===================================================
+==========================© Copyright ISHINGIRO AI System. All Rights Reserved================
